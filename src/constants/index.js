@@ -33,7 +33,7 @@ import {
     },
     {
       id: "works",
-      title: "Works",
+      title: "Profile",
     },
     {
       id: "contact",
